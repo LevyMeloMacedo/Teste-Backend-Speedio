@@ -1,5 +1,0 @@
-Olá, me chamo Levy Melo Macedo e realizei o teste para a empresa Spedio.O teste consistia em criar um programa em Python ou Ruby que fizesse o Scraping da página SimilarWeb e coletar diversos dados e salva-los em um banco de dados MongoDb.
-Gostaria de relatar minha experiencia com o teste. De início eu me peguei surpreso pois não sabia exatamente como realizar o scraping de uma página e tão pouco conhecia muito a fundo a linguagem Ruby, porém com a leitura de bibliotecas, documentação, um curso rápido de introdução a Ruby e algumas muitas horas analisando tudo consegui realizar o teste. 
-Acredito que vale ressaltar que encontrei dificuldades com API fornecida pelo SimilarWeb, pois ela pedia uma API-KEY que após eu fornece-la o site dizia para entrar em contato com o suporte, algo que fiz durante 3 dias e não obtive reposta. 
-Ainda mais o site SimilarWeb bloqueava acessos de Scraping. Admito que pensei em desistir acreditando ser impossível realizar o teste sem conseguir acessar a página, porém vendo que aprendi muito em pouco tempo colocando a mão na massa decidi construir o código que podem ver nesse documento, espero que gostem. 
-Tenham um ótimo dia!
